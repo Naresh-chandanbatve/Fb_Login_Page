@@ -1,6 +1,6 @@
 # Fb_Login_Page
 
-This is an FB login page not the working fb login page instead the design of page.
+This is not the working fb login page instead the design of page.
 
 
 ## Steps to run the app
